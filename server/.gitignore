@@ -1,0 +1,7 @@
+node_modules
+yarn*
+
+uploads/*
+!uploads/.gitkeep
+
+*.sqlite
